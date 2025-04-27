@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'GDrive',
+			icon: 'cloud',
+			link: 'https://drive.google.com',
 		},
 		{
 			id: '4',
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'facealien',
+			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
@@ -104,15 +104,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
+			name: 'discord',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'Shopee',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://shopee.com.my/',
 		},
 		{
 			id: '5',
