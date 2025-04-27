@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'rocket',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Instagram',
+					link: 'https://www.instagram.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Facebook',
+					link: 'https://www.facebook.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'UPU',
+					link: 'https://online.mohe.gov.my/UPUOnlinev2/login',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NANDO DEMO',
+					link: 'https://www.youtube.com/watch?v=a8dgNdJVluc',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'archive',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Asura',
+					link: 'https://asuracomic.net/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'HiveToon',
+					link: 'https://hivecomic.com/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Free Media',
+					link: 'https://fmhy.net',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'WeebCentral',
+					link: 'https://weebcentral.com',
 				},
 			],
 		},
