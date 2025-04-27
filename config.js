@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'c65f6ccf1450447adca9e65ebe1dce3c', // Write here your API Key
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '2',
@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'GDrive',
-			icon: 'cloud',
-			link: 'https://drive.google.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
+			id: '4',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com',
+		},
+		{
+			id: '5',
+			name: 'GDrive',
+			icon: 'cloud',
+			link: 'https://drive.google.com',
+		},
+		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Roblox',
+			icon: 'gamepad',
+			link: 'https://roblox.com/',
 		},
 	],
 
