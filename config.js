@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://online.mohe.gov.my/UPUOnlinev2/login',
 				},
 				{
-					name: 'NANDO DEMO',
-					link: 'https://www.youtube.com/watch?v=a8dgNdJVluc',
+					name: 'Ajids Lounge',
+					link: 'https://ajidensem.neocities.org/',
 				},
 			],
 		},
